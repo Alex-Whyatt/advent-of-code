@@ -1,5 +1,4 @@
 let fs = require("fs");
-const { parse } = require("path");
 let binaryCount = {zero: [], one: []};
 let gammaTotal = [];
 
